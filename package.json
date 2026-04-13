@@ -1,0 +1,25 @@
+{
+  "name": "howtomakeproductingerman",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhibaiduan/Germanb2bmarketresearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zhibaiduan/Germanb2bmarketresearch/issues"
+  },
+  "homepage": "https://github.com/zhibaiduan/Germanb2bmarketresearch#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
